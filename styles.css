@@ -1,6 +1,5 @@
 body {
-    margin-left: 10%;
-    margin-right: 10%;
+    margin: 8px;
     display: block;
 }
 
@@ -52,4 +51,12 @@ img {
 
 footer {
     text-align: center;
+}
+
+#mainHeading {
+    color: red;
+}
+
+.funParagraph {
+    color: green;
 }
